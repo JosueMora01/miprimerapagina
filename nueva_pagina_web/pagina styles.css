@@ -1,0 +1,17 @@
+* {
+    margin: 8px;
+    padding: 12px;
+}
+p {
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.container {
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+image{
+    line-height: 50em;
+}
